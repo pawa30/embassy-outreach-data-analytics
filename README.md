@@ -67,7 +67,7 @@ The analysis suggests several improvement areas:
 
 - [Executive Summary](reports/executive-summary.pdf)
 - [Excel Analysis Workbook](workbook/embassy-outreach-analysis.xlsx)
-- Dashboard screenshots: `screenshots/`
+- Dashboard screenshots: `screenshots`
 
 ## AI Usage & Validation
 
